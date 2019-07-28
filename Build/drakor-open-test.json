@@ -1,0 +1,16 @@
+{
+"companyName": "Projeto Game Over",
+"productName": "Drakor",
+"productVersion": "0.1",
+"dataUrl": "drakor-open-test.data.unityweb",
+"wasmCodeUrl": "drakor-open-test.wasm.code.unityweb",
+"wasmFrameworkUrl": "drakor-open-test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.10f1"
+}
